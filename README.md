@@ -56,6 +56,7 @@ Required C programming assignments focusing on fundamental concepts: loops, cond
 - `draw_heart(char *prompt, int size)` - Heart shape with centered text
 
 ---
+![Setup view](Heart snippet.png)
 
 ## Compilation & Running
 
