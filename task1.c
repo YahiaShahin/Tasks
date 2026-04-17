@@ -216,5 +216,3 @@ void product_of_digits(int num) {
 
     printf("The product of the digits is: %d\n", product);
 }
-
-// C program to print a 
